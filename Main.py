@@ -1,3 +1,3 @@
 #This is the main
 
-Test ABC
+Test = "ABC"
